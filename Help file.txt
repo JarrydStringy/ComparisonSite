@@ -1,0 +1,8 @@
+React front end
+Node back end
+
+Helpful links
+https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/
+
+https://medium.com/@jon.franchi/scraping-with-node-for-fun-and-profit-part-1-38992d41ed2
+
